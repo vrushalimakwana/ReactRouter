@@ -6,8 +6,6 @@ import About from "./Components/About";
 import NavBar from "./Components/NavBar";
 import User from "./Components/User";
 function App() {
-
-
   return (
       <div className="App">
           <BrowserRouter>
